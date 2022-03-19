@@ -1,1 +1,2 @@
-my firdt readme
+my first readme
+alx school is cool
